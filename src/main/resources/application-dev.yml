@@ -20,3 +20,6 @@ spring:
       settings:
         trace: false
         web-allow-others: false
+  output:
+    ansi:
+      enabled: always
