@@ -19,7 +19,7 @@ spring:
       path: /h2-console
       settings:
         trace: false
-        web-allow-others: true
+        web-allow-others: false
   output:
     ansi:
       enabled: always
